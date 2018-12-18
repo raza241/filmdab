@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MetaBookLFRoman';
+    src: url('fonts/MetaBookLFRoman.eot');
+    src: url('fonts/MetaBookLFRoman.eot') format('embedded-opentype'),
+         url('fonts/MetaBookLFRoman.woff2') format('woff2'),
+         url('fonts/MetaBookLFRoman.woff') format('woff'),
+         url('fonts/MetaBookLFRoman.ttf') format('truetype'),
+         url('fonts/MetaBookLFRoman.svg#MetaBookLFRoman') format('svg');
+}
